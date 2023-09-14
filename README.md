@@ -14,7 +14,7 @@
 ## Sobre o projeto
 
 Site desenvolvido durante o curso HTML5 e CSS3: primeiros passos na criação de uma página web, na plataforma [Alura](https://www.alura.com.br/), ministrado por [
-Amanda Irizaga](https://www.linkedin.com/in/amandairizaga/) e [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosilveira/). O objetivo foi consolidar os conhecimentos iniciais de HTML5 e CSS3.
+Amanda Irizaga](https://www.linkedin.com/in/amandairizaga/) e [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosilveira/). O objetivo foi consolidar os conhecimentos iniciais de HTML5 e CSS3 por meio do projeto da [Alura Start](https://www.alurastart.com.br/).
 
 Neste projeto, você encontrará um catálogo de vídeos relacionados à Zoologia, área da Biologia voltada ao estudo de animais.
 
