@@ -39,7 +39,7 @@ Neste projeto, você encontrará um catálogo de vídeos relacionados à Zoologi
 3. Dar um duplo click no arquivo "index.html".
 
 Caso não queria realizar o processo acima, você pode acessar o site a partir do Github Pages:
-- [Bichoflix no Github Pages](strawndri.github.io/bichoflix/)
+- [Bichoflix no Github Pages](https://strawndri.github.io/bichoflix/)
 
 ## Tecnologias utilizadas
 
