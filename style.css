@@ -1,23 +1,22 @@
 body {
-    background: black;
-    color: white;
+    background: #333333;
+    color: #333;
     margin: 0px;
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 header{
-    padding: 20px;
-    border-bottom: 2px solid rgb(42, 122, 228);
-    font-size: 32px;
-    color:rgb(42, 122, 228);
+    padding: 10px;
+    border-bottom: 2px solid #54f070;
+    font-size: 24px;
+    color: #54f070;
 }
 
 .chamada {
     display: flex;
     justify-content: center;
-    background: rgb(142, 6, 35);
-    padding-top: 80px;
-    padding-bottom: 80px;
+    background: #54f070;
+    padding: 80px 20px;
 }
 
 .chamada-texto {
@@ -44,15 +43,14 @@ header{
 }
 
 .categoria-videos img:hover {
-    border: 1px solid green;
+    border: 1px solid #54f070;
     opacity: 1.0;
 }
 
 .categoria h2 {
-    color: green;
+    color: #54f070;
 }
 
 .categoria {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 20px 20px 80px 20px;
 }
